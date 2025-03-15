@@ -3,7 +3,7 @@
 A simple, lightweight, and customizable floating world clock built with **Tkinter**.  
 Displays multiple time zones, stays on top of other windows, and allows transparency adjustments.
 
-![Demo Screenshot](assets\demo.jpg)
+![Demo Screenshot](assets/demo.jpg)
 
 ---
 
