@@ -36,7 +36,7 @@ python floating_clock.py
 To generate a standalone `.exe` file:  
 ```bash
 pip install pyinstaller
-pyinstaller --onefile --windowed floating_clock.py
+pyinstaller --onefile --noconsole --windowed floating_clock.py
 ```
 Your `.exe` file will be in the `dist/` folder.
 
